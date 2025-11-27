@@ -22,3 +22,7 @@ Vision: OpenCV (cv2)
 AI Model: YOLOv8 (Ultralytics) - Exported to TensorRT (.engine) for max speed.
 
 Hardware: Optimized for NVIDIA GTX 1650 (Laptop).
+
+## 📥 Model Download
+The TensorRT engine file is too large for this repo.
+[Download the optimized spark.engine here](https://github.com/YourUsername/Spark-Detection/releases)
